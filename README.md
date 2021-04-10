@@ -1,4 +1,4 @@
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://giphy.com/gifs/GHbdPuRQ7oxx3IJwiF)
 # Hanpuku-Automation
 I made this to automate tapping on a very simple game called Side Step Girl.
 
